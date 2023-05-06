@@ -40,6 +40,9 @@
     line-height: 30px;
     font-family: var(--main-text);
 }
+.about{
+  line-height: 30px;
+}
 /* Navigation start */ 
 nav ul li{
     font-family: var(--secondary-headings);
