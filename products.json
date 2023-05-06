@@ -19,7 +19,7 @@
       "id" : "3", 
        "image": "productImages/Sapphire Hoops.png",
        "title": "Sapphire Hoops",
-       "description": "A new take on classic hoops. Sapphires that move when you move.",
+       "description": "Looking like a French girl isn’t as difficile as it seems. Handcrafted in vermeil, a thick 18k gold layer on sterling silver. Consider this croissant-inspired hoops to make all your Parisian dreams come true..",
        "price": "$58" , 
        "category" : "ring"
     },
@@ -27,7 +27,7 @@
       "id" : "4", 
        "image": "productImages/Bold Herringbone Chain Necklace.png",
        "title": "Bold Herringbone Chain Necklace",
-       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "description": "If you’re looking to add some herringbone into your wardrobe, this necklace is a solid choice for a new staple. Available in two lengths.",
        "price": "$198", 
        "category" : "necklace"
     },
@@ -49,7 +49,7 @@
     },
     {
       "id" : "7", 
-        "image": "productImages/Duet Ear Cuff.png",
+        "image": "productImages/Screen Shot 2023-05-06 at 7.47.25 PM.png",
         "title": "Duet Ear Cuff",
         "description": "Not ready to commit to multiple piercings? Take the Duet Ear Cuff for a spin. Handcrafted in gold vermeil, a thick layer of 18k gold over sterling silver with a hollow interior for comfortable wear.",
         "price": "$48",
@@ -81,9 +81,9 @@
      },
      {
       "id" : "11", 
-        "image": "productImages/Lotus Necklace.png",
+        "image": "productImages/Screen Shot 2023-05-06 at 7.47.36 PM.png",
         "title": "Lotus Necklace",
-        "description": "Dress it up or down, this necklace is totally versatile.",
+        "description": "Sleek, slinky and statement—everything you need in one staple chain. Handcrafted in 14k solid gold featuring flat, braided links designed for comfortable all day wear. Available in two lengths.",
         "price": "$98" , 
         "category" : "earring"
      },
