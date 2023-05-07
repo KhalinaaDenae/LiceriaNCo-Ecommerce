@@ -1,28 +1,3 @@
-// const categoryTitle = document.getElementsByClassName('category-title tabs')
-
-// let products = []
-//define global variable to get element that was clicked 
-
-// event listener on category title 
- // categoryTitle.addEventListener('click', function(){
-
-   //empty variable 
-
-   // get value of h3 that was clicked 
-
-
-   //update variable with h3 clicked 
-
-   // convert json to array 
-
-
-   // filter array of products based on category 
-
-
-   // update global variable 
-   
-// })
-
 fetch("products.json")
 
 .then(function(response){
