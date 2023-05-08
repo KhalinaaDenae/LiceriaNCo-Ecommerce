@@ -411,7 +411,9 @@ white;
 
 
   @media (max-width: 900px) {
-  
+  .about{
+    line-height: normal;
+  }
  
     .best-seller{
         width: 250px;
